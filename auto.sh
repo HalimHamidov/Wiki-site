@@ -1,1 +1,1 @@
-scp -r -P 888 /Users/apearl/Desktop/RogerSkyline/site apearl@192.168.56.2:/var/www/html
+scp -r -P 2222 /Users/apearl/Desktop/RogerSkyline/site/web apearl@192.168.20.19:/home/apearl
